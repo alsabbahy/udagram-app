@@ -6,7 +6,7 @@ services:
   - docker
 
 script:
-  - docker build -t reverseproxy ./reverseproxy
+  - docker build -t reverseproxy ./udagram-reverseproxy
   - docker tag reverseproxy sabbahy/reverseproxy:v1_0
   - docker build -t udagram-api-feed ./udagram-api-feed
   - docker tag udagram-api-feed sabbahy/udagram-api-feed:v1
