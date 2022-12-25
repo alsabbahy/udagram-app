@@ -1,0 +1,6 @@
+POSTGRES_HOST=sabbahy-postgres.coamb35krjtk.us-east-1.rds.amazonaws.com
+POSTGRES_DB=postgres
+AWS_BUCKET=sabbahy-udagram-dev
+AWS_REGION=us-east-1
+AWS_PROFILE=nd9990
+URL=http://localhost:8100
