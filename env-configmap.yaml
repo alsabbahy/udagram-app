@@ -3,4 +3,4 @@ POSTGRES_DB=postgres
 AWS_BUCKET=sabbahy-udagram-dev
 AWS_REGION=us-east-1
 AWS_PROFILE=nd9990
-URL=http://localhost:8100
+URL=http://a76a664856ccb426ea7f12a5ea02a1e4-752731467.us-east-1.elb.amazonaws.com
